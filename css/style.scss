@@ -4,6 +4,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Poppins';
+}
+
+nav {
+    background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%);
 }
 
 .nav-list {
@@ -34,7 +39,6 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    font-family: 'Poppins';
 
     p {
         font-size: 20px;
