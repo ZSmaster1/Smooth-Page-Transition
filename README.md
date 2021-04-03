@@ -6,5 +6,10 @@ npm install
 
 ##### Start Parcel Server
 ```
-npm start
+npm run dev
+```
+
+##### Package files for browser
+```
+npm run prod
 ```
